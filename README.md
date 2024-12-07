@@ -6,8 +6,11 @@ Project Dante is an adventure roguelike game where players explore a procedurall
 
 # Characteristics:
 Procedurally generated world: Each playthrough offers a unique and different environment, ensuring no two games are alike.
+
 A wide variety of enemies: A range of enemies with different abilities and behaviors, increasing in difficulty as you progress.
+
 Multiple items and levels: Players can find and use a wide range of items and abilities to enhance their performance in the game.
+
 Challenging bosses: Encounter and face powerful bosses at the end of each level, each with unique mechanics that will test your skills.
 
 # License
